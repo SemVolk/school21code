@@ -2,9 +2,9 @@ School21
 ========
 
 
-###Perl script starting 
+##Perl script starting 
 
-<perl bsq_test_script.pl {x} {y} {density}>
+>perl bsq_test_script.pl {x} {y} {density}
 
 
 
